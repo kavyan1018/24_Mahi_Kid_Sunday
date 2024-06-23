@@ -22,3 +22,21 @@
             what we want to show in my web we Write in Body... all of Code    
 </body>
 </html>
+
+
+heading tags :- 
+
+We have total 6 types of heading tags 
+
+there is size diffrence between h1 to h6 
+
+h1 ==> max 
+h2 
+h3 
+h4 
+h5 
+h6 ==> min
+
+center tag :-
+
+what we write in center tag that all parts come in center
