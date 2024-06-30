@@ -40,3 +40,14 @@ h6 ==> min
 center tag :-
 
 what we write in center tag that all parts come in center
+
+in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
+
+pre tag --> preformatted text
+
+
+bold ==> <b> and <strong>
+italic ==> <i> and <em>
+underline ==> <u> and inserted 
+delete ==> <del> and strikex
+high light ==> <mark>
