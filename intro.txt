@@ -51,3 +51,18 @@ italic ==> <i> and <em>
 underline ==> <u> and inserted 
 delete ==> <del> and strikex
 high light ==> <mark>
+
+how to insert images in our wesites ? 
+
+there is total 2 Ways  to insert images 
+
+ <!-- 1st way to insert image  1
+        1st Way is insert image from google
+
+        what is src ?  ==> source
+        what is alt ? ==> altranet
+    -->
+
+<!-- 
+        2nd way is insert image from download 
+-->
