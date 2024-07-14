@@ -1,3 +1,7 @@
+Press:- Shift + 1 and press enter then u got your Formate
+
+Press :- Alt + z so u can get a one line to paragraph for code
+
 <!DOCTYPE html>
 
 -->Document type html
@@ -9,42 +13,39 @@
 
     <meta charset="UTF-8">
     encoding
-    what is the full form of UTF ? -->  Unicode tra Formate
+    what is the full form of UTF ? -->  unicode transformation format
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title></title>
 
     --> in title we Enter our web name 
-</head>
 
+</head>
 <body>
-            what we want to show in my web we Write in Body... all of Code    
+            what we want to show in my web we Write in Body... 
+            all of Code    
 </body>
 </html>
 
 
-heading tags :- 
+heading Tags :- 
 
-We have total 6 types of heading tags 
+we have total 6 heading Tags 
 
 there is size diffrence between h1 to h6 
 
-h1 ==> max 
-h2 
-h3 
-h4 
-h5 
-h6 ==> min
+h1, --> max 
+h2,
+h3,
+h4,
+h5,
+h6, --> min
+
 
 center tag :-
 
 what we write in center tag that all parts come in center
-
-in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
-
-pre tag --> preformatted text
-
 
 bold ==> <b> and <strong>
 italic ==> <i> and <em>
@@ -52,9 +53,11 @@ underline ==> <u> and inserted
 delete ==> <del> and strikex
 high light ==> <mark>
 
-how to insert images in our wesites ? 
 
-there is total 2 Ways  to insert images 
+in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
+pre tag --> preformatted text
+
+Images insert total 2 Ways
 
  <!-- 1st way to insert image  1
         1st Way is insert image from google
@@ -63,6 +66,17 @@ there is total 2 Ways  to insert images
         what is alt ? ==> altranet
     -->
 
-<!-- 
+ <!-- 
         2nd way is insert image from download 
--->
+     -->
+
+<br>  ==> To Break cont Line 
+
+&nbsp; for space between text/image/and all about that
+
+// Narendra Modi
+in center img 
+
+line Name Line
+
+50 lines paragraph
