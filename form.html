@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <!-- What is form in HTML? -->
+
+    <!-- <form> tag is used to create an HTML form for user input. The <form> element can contain one or more of the following form elements: -->
+
+    <!-- 1. input -->   
+    <!-- 2. textarea -->
+    <!-- 3. button -->
+    <!-- 4. select -->
+    <!-- 5. option -->
+    <!-- 6. optgroup -->
+    <!-- 7. fieldset -->
+    <!-- 8. label -->
+    <!-- 9. legend -->
+    
+    <!-- which details we can input from usear in form tag? -->
+
+    <!-- 1. text -->
+    <!-- 2. password -->
+    <!-- 3. radio -->
+    <!-- 4. checkbox -->    
+    <!-- 5. submit -->
+    <!-- 6. reset -->
+    <!-- 7. file -->
+    <!-- 8. hidden -->
+    <!-- 9. image -->
+    <!-- 10. button -->
+    <!-- 11. color -->
+    <!-- 12. date -->
+    <!-- 13. datetime-local -->
+    <!-- 14. email -->
+    <!-- 15. month -->
+    <!-- 16. number -->
+    <!-- 17. range -->
+    <!-- 18. search -->
+    <!-- 19. tel -->
+    <!-- 20. time -->   
+    <!-- 21. url -->
+    <!-- 22. week -->
+
+    <!-- above all attributes are used in input tag. -->
+
+    <!-- What is label tag in HTML? -->
+
+    <!-- The <label> tag defines a label for many form elements. The <label> element does not render as anything special for the user. However, it provides a usability improvement for mouse users, because if the user clicks on the text within the <label> element, it toggles the control. -->
+
+<fieldset>
+
+    <legend align="right">Registation Form</legend>
+
+    <form>
+
+        <label for="fn">First Name</label>
+        <input type="text" placeholder="First Name" required> 
+
+        <br><br>
+
+        <label for="ln">Last Name</label>
+        <input type="text" placeholder="Last Name" required>
+
+        <br><br>
+
+        <label for="email">Email</label>
+        <input type="email" placeholder="example123@gmail.com" required>
+
+        <br><br>
+
+        <label for="password">Password</label>
+        <input type="password" placeholder="Password" required>
+
+        <br><br>
+
+        <label for="Dob">Date of Birth</label>
+        <!-- ctrl + space for the sug -->
+        <input type="date">
+        
+        <br><br>
+
+        <label for="ge">Gender</label>
+        <input type="radio" name="ge">
+        <label for="Male">Male</label>
+        <input type="radio" name="ge">
+        <label for="Female">Female</label>
+
+        <br><br>
+
+        <!-- Dropdown -->
+        <label for="co">Country</label>
+        <select name="" id="">
+            <option value="">Select any one country</option>
+            <option value="India">India</option>
+            <option value="USA">USA</option>
+            <option value="UK">UK</option>
+            <option value="Australia">Australia</option>
+            <option value="Canada">Canada</option>       
+        </select>
+
+        <br><br>
+
+        <label for="">State</label>
+        <select name="" id="">
+            <option value="">Select any one state</option>
+            <option value="Gujarat">Gujarat</option>
+            <option value="Maharashtra">Maharashtra</option>
+            <option value="Rajasthan">Rajasthan</option>
+            <option value="Punjab">Punjab</option>
+            <option value="Karnataka">Karnataka</option>
+        </select>
+
+        <br><br>
+
+        <label for="ci">City</label>
+        <input type="text" placeholder="City" required>
+
+        <br><br>
+
+        <label for="Address">Address</label>
+        <textarea name="" id="" cols="30" rows="7"></textarea>
+
+        <br><br>
+
+        <label for="zip">Zip Code</label>
+        <input type="number" placeholder="Zip Code" required>
+
+        <br><br>
+
+        <label for="ph">Phone Number</label>
+        <input type="tel" placeholder="Phone Number" required>
+
+        <br><br>
+
+        <label for="file">Upload File</label>
+        <input type="file">
+
+        <br><br>
+
+        <label for="color">Color</label>
+        <input type="color">
+
+        <br><br>
+
+        <!-- <input type="submit" value="Submit here "> -->
+        <!-- <button type="submit">Registation here</button> -->
+         <input type="submit">
+
+    </form>
+
+</fieldset>
+
+
+
+</body>
+</html>
