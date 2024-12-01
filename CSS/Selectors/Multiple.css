@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+}
+
+/* Multiple Selectors */
+
+/* p, a{
+    color: green;
+} */
+
+/* .site-title, .title-para{
+    color: red;
+} */
+
+/* #tp, a{
+    color: blue;
+} */
