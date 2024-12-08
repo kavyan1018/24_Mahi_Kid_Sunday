@@ -1,0 +1,15 @@
+tyeps of pseudo class 
+
+-> :hover
+-> :active
+-> :visited
+-> :link
+
+
+-> Hover : Hover is a pseudo class which is used to select an element when you mouse over it.
+
+-> Active : Active is a pseudo class which is used to select an element when you click on it.
+
+-> Visited : Visited is a pseudo class which is used to select an element when you have visited the link.
+
+-> Link : Link is a pseudo class which is used to select an element when you have not visited the link.
