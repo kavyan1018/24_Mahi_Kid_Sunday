@@ -15,3 +15,20 @@ a {
 /* #tp, a{
     color: blue;
 } */
+
+    /* ul a{
+        color: green;
+    } */
+
+    /* li a{
+        color: red;
+    } */
+
+    /* ul a, ol a{
+        color: green;
+    } */
+
+    /* ul > a, ol > a{
+        color: green;
+    } */
+
