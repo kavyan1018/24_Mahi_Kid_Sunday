@@ -32,3 +32,28 @@ a {
         color: green;
     } */
 
+
+        /* li:nth-child(4){
+        background-color: aqua;
+        /* font-size: 2rem; 
+    } */
+
+    /* li:nth-child(odd){
+        background-color: gray;
+    } */
+
+    /* li:nth-child(even){
+        background-color: lightgray;
+    } */
+
+    /* ul + a, ol + a{
+        color: red;
+    } */
+
+    /* a[target="_blank"]{
+        color: green;
+    } */
+    
+    li[value="201"], li[value="400"]{
+        background-color: yellow;
+    }
