@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .outer{
+        background-color: yellow;
+        height: 500px;
+        width: 1200px;
+        /* width: 80vw; */
+    }
+
+    .inner{
+        background-color: red;
+        height: 350px;
+        width: 90%;
+    }
+
+
+    .inner-most{
+        background-color: black;
+        /* background-color: rgb(171, 220, 106); */
+        /* background-color: #CD5C5C; */
+        /* background-color: rgba(39, 243, 8, 0.3); */
+        height: 200px;
+        width: 80%;
+    }
+
+    a{
+        color: black;
+        font-size: 1.3rem;
+        text-decoration: none;
+        background-color: white;
+        width: 266px;
+        height: 100vh;
+        /* height or width don't apply on inline elements except button and img */
+    }
+
+</style>
+<body>
+    <div class="outer">
+            <br><br><br>
+            <div class="inner">
+                <br><br><br>
+                <div class="inner-most">
+                    <br><br><br><br>
+                    <a href="#">Click me</a>
+                </div>
+            </div>
+        </div>
+</body>
+</html>
